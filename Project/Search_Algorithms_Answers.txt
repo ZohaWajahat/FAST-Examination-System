@@ -1,0 +1,15 @@
+a5380ee A* Search Algorithms
+
+dabfac4 Correct option
+
+1. c)Both a and b
+2. c)Both a and b
+3. b)Informed search algorithm
+
+a5380ee A* Search Algorithms
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. a)True

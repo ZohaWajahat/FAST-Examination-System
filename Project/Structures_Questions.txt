@@ -1,0 +1,43 @@
+a5380ee Structures
+
+2efcde9 MCQs Questions
+
+1.The data elements in the structure are also known as what?
+a)objects
+b)members
+c)data
+d)objects and data
+
+2.The declaration of the structure is also called as?
+a)structure creator
+b)structure signifier
+c)structure specifier
+d)structure creator and signifier
+
+3.What will be used when terminating a structure?
+a):
+b)}
+c);
+d);;
+
+a5380ee Structures
+
+b94d27b True/False Questions
+
+1.Structure definitions are usually global (defined outside any functions).
+a)True
+b)False
+
+2. A structure variable can be defined directly in the same statement thatdefines a structure definition.
+a)True
+b)False
+
+3.A structure can have a member whose type is another structure.
+a)True
+b)False
+
+a5380ee Structures
+
+88f7ace Descriptive questions
+
+1.Why do we use structs in C++?

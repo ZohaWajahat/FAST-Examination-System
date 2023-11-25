@@ -1,0 +1,43 @@
+a5380ee Stacks And Queues
+
+2efcde9 MCQs Questions
+
+1.What data structure uses a last-in, first-out (LIFO) policy?
+a)Stack
+b)Queue
+c)Linked List
+d)Tree
+
+2.Which of the following is NOT an operation commonly performed on a stack?
+a)push
+b)pop
+c)enqueue
+d)peek
+
+3.What data structure uses a first-in, first-out (FIFO) policy?
+a)Stack
+b)Queue
+c)Linked List
+d)Tree
+
+a5380ee Stacks And Queues
+
+b94d27b True/False Questions
+
+1.A stack can be implemented using a linked list.
+a)True
+b)False
+
+2.A queue can be implemented using an array.
+a)True
+b)False
+
+3.In a queue, the first element to be added is the last element to be removed.
+a)True
+b)False
+
+a5380ee Stacks And Queues
+
+88f7ace Descriptive questions
+
+1.Describe the difference between a stack and a queue, and provide an example use case for each data structure

@@ -1,0 +1,15 @@
+a5380ee Recurrent Neural Network
+
+dabfac4 Correct option
+
+1. b)Recurrent neural networks have feedback connections while feedforward neural networks do not.
+2. c)Long short-term memory (LSTM)
+3. b)To provide a memory of previous inputs to the network.
+
+a5380ee Recurrent Neural Network
+
+dabfac4 Correct option
+
+1. a)True
+2. b)False
+3. b)False

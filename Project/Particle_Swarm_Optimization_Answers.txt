@@ -1,0 +1,15 @@
+a5380ee A* Search Algorithms
+
+dabfac4 Correct option
+
+1. d)Mutation
+2. a)It can get stuck in local optima
+3. d)All of the above
+
+a5380ee Genetic Algorithms
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. b)False

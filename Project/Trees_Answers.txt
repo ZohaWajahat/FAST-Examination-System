@@ -1,0 +1,15 @@
+a5380ee Trees
+
+dabfac4 Correct option
+
+1. c)2
+2. d)Empty binary tree
+3. c)Post-order
+
+a5380ee Trees
+
+dabfac4 Correct option
+
+1.a)True
+2.a)True
+3.a)True

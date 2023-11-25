@@ -1,0 +1,15 @@
+a5380ee Stacks And Queues
+
+dabfac4 Correct option
+
+1. a)Stack
+2. c)enqueue
+3. b)Queue
+
+a5380ee Stacks And Queues
+
+dabfac4 Correct option
+
+1.a)True
+2.a)True
+3.b)False

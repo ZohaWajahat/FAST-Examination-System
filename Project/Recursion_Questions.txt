@@ -1,0 +1,60 @@
+a5380ee Recursion
+
+2efcde9 MCQs Questions
+
+1.The principle of stack is:
+a)First in, first out
+b)First in, last out
+c)Last in, first out
+d)Last in, last out
+
+2.In absence of a exit conditioni in a recursive function, the following erroe is given
+a)compile time error
+b)run time error
+c)logical error
+d)no error
+
+3.What will be the output of the following C++ code?
+#include <iostream>
+using namespace std;
+int main()
+{
+	int n;
+	n=f1(4);
+	cout<<n;
+}
+void f1(int x)
+{
+	int b;
+	if(x==1)
+		return 1;
+	else
+		b=x*f1(x-1);
+		return b;
+}
+a)24
+b)4
+c)12
+d)10
+
+a5380ee Recursion
+
+b94d27b True/False Questions
+
+1.A nonrecursive function for computing some value may execute more rapidly than a recursive function that computes the same value.
+a)True
+b)False
+
+2.Recursion is similar method to loops.
+a)True
+b)False
+
+3.Recursion can be used to fill an or print an array.
+a)True
+b)False
+
+a5380ee Recursion
+
+88f7ace Descriptive questions
+
+1. Why do we prefer recursive functions over loops?

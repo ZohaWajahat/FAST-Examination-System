@@ -1,0 +1,43 @@
+a5380ee Artificial Neural Network
+
+2efcde9 MCQs Questions
+
+1.Which of the following is not a type of Artificial Neural Network?
+a)Multilayer Perceptron (MLP)
+b)Convolutional Neural Network (CNN)
+c)Recurrent Neural Network (RNN)
+d)Linear Regression
+
+2.Which activation function is commonly used in the output layer for binary classification tasks?
+a)Sigmoid
+b)ReLU
+c)Tanh
+d)Softmax
+
+3.Which layer of a neural network is responsible for reducing the dimensionality of the input data?
+a)Input Layer
+b)Hidden Layer
+c)Output Layer
+d)None of the above
+
+a5380ee Artificial Neural Network
+
+b94d27b True/False Questions
+
+1.Backpropagation is a commonly used algorithm for training neural networks.
+a)True
+b)False
+
+2.Dropout regularization involves randomly dropping out nodes in the neural network during training to reduce overfitting.
+a)True
+b)False
+
+3.Convolutional Neural Networks are typically used for image classification tasks, while Recurrent Neural Networks are used for natural language processing tasks.
+a)True
+b)False
+
+a5380ee Artificial Neural Network
+
+88f7ace Descriptive questions
+
+1.Explain the difference between supervised and unsupervised learning in the context of neural networks.

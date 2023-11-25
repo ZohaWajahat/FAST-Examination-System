@@ -1,0 +1,43 @@
+a5380ee Convotuional Neural Network
+
+2efcde9 MCQs Questions
+
+1.What is the purpose of a pooling layer in a CNN?
+a)To reduce the size of the input image
+b)To introduce non-linearity in the network
+c)To increase the number of feature maps
+d)To learn the optimal weights for the network
+
+2.Which of the following is NOT a common activation function used in CNNs?
+a)ReLU
+b)Sigmoid
+c)Softmax
+d)Tangent
+
+3.What is a common loss function used for classification tasks in CNNs?
+a)Mean Squared Error (MSE)
+b)Cross-Entropy Loss
+c)L1 Loss
+d)Hinge Loss
+
+a5380ee Convotuional Neural Network
+
+b94d27b True/False Questions
+
+1.A convolutional layer in a CNN learns to detect local patterns in an input image.
+a)True
+b)False
+
+2.A fully connected layer in a CNN has weights shared across all neurons.
+a)True
+b)False
+
+3.Transfer learning involves using a pre-trained CNN to solve a new task.
+a)True
+b)False
+
+a5380ee Convotuional Neural Network
+
+88f7ace Descriptive questions
+
+1.Explain the concept of data augmentation in CNNs and how it can be useful for improving the performance of a model.

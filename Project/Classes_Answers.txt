@@ -1,0 +1,15 @@
+a5380ee Classes
+
+dabfac4 Correct option 
+
+1. a)Virtual function can be static
+2. d)Both b and c
+3. c)pure virtual function
+
+a5380ee Classes
+
+dabfac4 Correct option
+
+1. b)False
+2. a)True
+3. a)True

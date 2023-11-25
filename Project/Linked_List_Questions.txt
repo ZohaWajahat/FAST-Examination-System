@@ -1,0 +1,43 @@
+a5380ee Data Structures
+
+2efcde9 MCQs Questions
+
+1.What is a linked list?
+a)A collection of nodes connected by pointers
+b)An array of elements
+c)A tree structure
+c)A data
+
+2Which of the following operations can be performed on a linked list?
+a)Insertion of a node at the beginning
+b)Deletion of a node at the end
+c)Random access to an element
+d)Both a and b
+
+3.Which of the following is not a type of linked list?
+a)Singly linked list
+b)Doubly linked list
+c)Circular linked list
+d)Binary linked list
+
+a5380ee Data Structures
+
+b94d27b True/False Questions
+
+1.In a singly linked list, each node stores a pointer to its previous node.
+a)True
+b)False
+
+2.In a doubly linked list, each node stores pointers to both its previous and next nodes.
+a)True
+b)False
+
+3.A circular linked list can be either singly linked or doubly linked.
+a)True
+b)False
+
+a5380ee Data Structures
+
+88f7ace Descriptive questions
+
+1.Write a function in C++ to insert a node at the end of a singly linked list.

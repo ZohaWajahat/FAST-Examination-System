@@ -1,0 +1,15 @@
+a5380ee Loops
+
+dabfac4 Correct option
+
+1. a)543
+2. c)3
+3. b)For loop
+
+a5380ee Loops
+
+dabfac4 Correct option 
+
+1. a)True
+2. b)False
+3. a)True

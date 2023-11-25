@@ -1,0 +1,15 @@
+a5380ee Genetic Algorithms
+
+dabfac4 Correct option
+
+1. a)To find the optimal solution to a problem
+2. d)Inference
+3. b)It evaluates the performance of each individual in the population
+
+a5380ee Genetic Algorithms
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. a)True

@@ -1,0 +1,43 @@
+a5380ee Genetic Algorithms
+
+2efcde9 MCQs Questions
+
+1.What is the main purpose of a genetic algorithm?
+a)To find the optimal solution to a problem
+b)To generate random solutions to a problem
+c)To optimize the performance of an AI agent
+d)To simulate the process of evolution
+
+2.Which of the following is not a component of a genetic algorithm?
+a)Crossover
+b)Selection
+c)Mutation
+d)Inference
+
+3.What is the role of fitness function in a genetic algorithm?
+a)It determines the probability of each individual being selected for reproduction
+b)It evaluates the performance of each individual in the population
+c)It determines the rate of mutation in the population
+d)It selects the fittest individual for the next generation
+
+a5380ee Genetic Algorithms
+
+b94d27b True/False Questions
+
+1.A genetic algorithm is a type of optimization algorithm that is based on the principles of natural selection
+a)True
+b)False
+
+2.Crossover is a genetic operator that involves selecting two individuals from the population and exchanging some of their genetic material to create new offspring
+a)True
+b)False
+
+3/In a genetic algorithm, the mutation rate determines the probability that a gene will be changed or mutated in an individual's genome
+a)True
+b)False
+
+a5380ee Genetic Algorithms
+
+88f7ace Descriptive questions
+
+1.Explain the basic steps involved in a genetic algorithm and how it works to optimize a problem.

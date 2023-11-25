@@ -1,0 +1,57 @@
+a5380ee Functions
+
+2efcde9 MCQs Questions
+
+1.What are mandatory parts in the function declaration?
+a)return type,function name
+b)return type,function name,parameters
+c)parameters,function name
+d)parameters,variables
+
+2.Which is more effective while calling the functions?
+a)call by value
+b)call by reference
+c)call by pointer
+d)call by object
+
+3.What will be the output of the following C++ code?
+#include <iostream>
+using namespace std;
+void fun(int x, int y)
+{
+	x=20;
+	y=10;
+}
+int main()
+{
+	int x=10;
+	fun(x,x);
+	cout<<x;    
+	return 0;
+}
+a)10
+b)20
+c)compile time error
+d)30
+
+a5380ee Functions
+
+b94d27b True/False Questions
+
+1.Functions cannot return more than one value at a time
+a)True
+b)False
+
+2.Functions can be called either by value or reference
+a)True
+b)False
+
+3.A function cannot be defined inside another function
+a)True
+b)False
+
+a5380ee Functions
+
+88f7ace Descriptive questions
+
+1.Explain Function overloading with example.

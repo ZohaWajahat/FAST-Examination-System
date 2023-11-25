@@ -1,0 +1,15 @@
+a5380ee Artificial Neural Network
+
+dabfac4 Correct option
+
+1. d)Linear Regression
+2. a)Sigmoid
+3. b)Hidden Layer
+
+a5380ee Artificial Neural Network
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. a)True

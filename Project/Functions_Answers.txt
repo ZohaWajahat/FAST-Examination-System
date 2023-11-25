@@ -1,0 +1,15 @@
+a5380ee Functions
+
+dabfac4 Correct option 
+
+1. a)return type,function name
+2. b)call by reference
+3. a)10
+
+a5380ee Functions
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. a)True

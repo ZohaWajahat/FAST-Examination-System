@@ -1,0 +1,15 @@
+a5380ee Recursion
+
+dabfac4 Correct option 
+
+1. c)Last in, first out
+2. b)run time error
+3. a)24
+
+a5380ee Recursion
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. a)True

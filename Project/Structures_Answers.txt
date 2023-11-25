@@ -1,0 +1,15 @@
+a5380ee Structures
+
+dabfac4 Correct option 
+
+1. b)members
+2. c)structure specifier
+3. c);
+
+a5380ee Structures
+
+dabfac4 Correct option
+
+1. a)True
+2. a)True
+3. a)True

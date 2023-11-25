@@ -1,0 +1,40 @@
+a5380ee Recurrent Neural Network
+
+2efcde9 MCQs Questions
+
+1.What is a major difference between a feedforward neural network and a recurrent neural network?
+a)Feedforward neural networks have feedback connections while recurrent neural networks do not.
+b)Recurrent neural networks have feedback connections while feedforward neural networks do not.
+c)Recurrent neural networks only have one layer while feedforward neural networks have multiple layers.
+
+2.Which of the following is a common type of recurrent neural network architecture?
+a)Multi-layer perceptron
+b)Convolutional neural network
+c)Long short-term memory (LSTM)
+
+3.What is the purpose of the hidden state in a recurrent neural network?
+a)To store the output of the network.
+b)To provide a memory of previous inputs to the network.
+c)To provide a memory of previous outputs from the network.
+
+a5380ee Recurrent Neural Network
+
+b94d27b True/False Questions
+
+1.Recurrent neural networks can be used for sequence prediction tasks.
+a)True
+b)False
+
+2.In a recurrent neural network, the output at each time step depends only on the current input and not on any previous inputs.
+a)True
+b)False
+
+3.Long short-term memory (LSTM) is a type of feedforward neural network.
+a)True
+b)False
+
+a5380ee Recurrent Neural Network
+
+88f7ace Descriptive questions
+
+1.Describe the role of the hidden state in a recurrent neural network, and give an example of a task where a recurrent neural network might be used.

@@ -1,0 +1,15 @@
+a5380ee Convotuional Neural Network
+
+dabfac4 Correct option
+
+1. a)To reduce the size of the input image
+2. c)Softmax
+3. b)Cross-Entropy Loss
+
+a5380ee Convotuional Neural Network
+
+dabfac4 Correct option
+
+1. a)True
+2. b)False
+3. a)True

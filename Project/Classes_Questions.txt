@@ -1,0 +1,43 @@
+a5380ee Classes
+
+2efcde9 MCQs Questions
+
+1.Which of the following is not correct for virtual function in C++?
+a)Virtual function can be static
+b)Virtual function should be accessed using pointers
+c)Virtual function is defined in base class
+d)Must be declared in public section of class
+
+2.Which of these following members are not accessed by using direct member access operator?
+a)Public
+b)Private
+c)Protected
+d)Both b and c
+
+3.Which is also called an asbtract class?
+a)virtual function
+b)derived class
+c)pure virtual function
+d)none of the above
+
+a5380ee Classes
+
+b94d27b True/False Questions
+
+1.Class members are public by default.
+a)True
+b)False
+
+2.Class has constructor as the same name of the class.
+a)True
+b)False
+
+3.You must write the costructor of every class you create.
+a)True
+b)False
+
+a5380ee Classes
+
+88f7ace Descriptive questions
+
+1.What is  the main different between Classes and Structures?

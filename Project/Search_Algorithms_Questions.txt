@@ -1,0 +1,43 @@
+a5380ee A* Search Algorithms
+
+2efcde9 MCQs Questions
+
+1.Which of the following is the heuristic used in A* search algorithm?
+a)Euclidean distance
+b)Manhattan distance
+c)Both a and b
+d)None of the above
+
+2.A* search algorithm is guaranteed to find the optimal solution if:
+a)The heuristic function is admissible
+b)The heuristic function is consistent
+c)Both a and b
+d)None of the above
+
+3.A* search algorithm is an example of:
+a)Uninformed search algorithm
+b)Informed search algorithm
+c)Randomized search algorithm
+d)None of the above
+
+a5380ee A* Search Algorithms
+
+b94d27b True/False Questions
+
+1.A* search algorithm expands fewer nodes than Dijkstra's algorithm
+a)True
+b)False
+
+2.A* search algorithm may not terminate if the heuristic function is not admissible
+a)True
+b)False
+
+3.A* search algorithm always guarantees to find a solution if one exists
+a)True
+b)False
+
+a5380ee A* Search Algorithms
+
+88f7ace Descriptive questions
+
+1.Explain the steps involved in the A* search algorithm and how it uses the heuristic function to guide the search towards the goal node. Also, discuss the conditions under which the algorithm is guaranteed to find the optimal solution.

@@ -1,0 +1,57 @@
+a5380ee Loops
+
+2efcde9 MCQs Questions
+
+1.What will be the output of the following C++ code?
+#include <iostream>
+using namespace std;
+int main()
+{
+	int n ;
+	for(n=5;n<0;n--) 
+	{
+		cout<<n;
+		if(n==3) 
+			break;
+	}
+	return 0;
+}
+a)543
+b)54
+c)5432
+d)53
+
+2.How many types of loops are there in C++?
+a)4
+b)2
+c)3
+d)1
+
+3.Which looping process is best used when the number of iterations is known?
+a)While loop
+b)For loop
+c)Do while loop
+d)all looping processes require that the iterations be known
+
+a5380ee Loops
+
+b94d27b True/False Questions
+
+1.An individual array element can be processed or passed to a function just like a regular C++ variable.
+a)True
+b)False
+
+2.A one-dimensional array can be initialized at the time it is defined, but a two-dimensional array cannot be.
+a)True
+b)False
+
+3.The following array definition is legal because C++ allows arrays to be implicitly sized.
+int grades[ ]; 
+a)True
+b)False
+
+a5380ee Loops
+
+88f7ace Descriptive questions
+
+1.What is the main purpose to use Loops?

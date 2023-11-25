@@ -1,0 +1,15 @@
+a5380ee Data Structures
+
+dabfac4 Correct option
+
+1. a)A collection of nodes connected by pointers
+2. d)Both a and b
+3. d)Binary linked list
+
+a5380ee Data Structures
+
+dabfac4 Correct option
+
+1. b)False
+2. a)True
+3. a)True
